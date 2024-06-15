@@ -47,14 +47,14 @@ Medium Article Scraper is a web application that scrapes articles from Medium ba
 
 4. Start the backend server:
     ```bash
-    node index.js
+    npm start
     ```
 
 ### Frontend
 
-1. Navigate to the `client` directory:
+1. Navigate to the `Frontend` directory:
     ```bash
-    cd client
+    cd Frontend
     ```
 
 2. Install frontend dependencies:

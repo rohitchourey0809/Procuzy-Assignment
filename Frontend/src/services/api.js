@@ -1,0 +1,1 @@
+export const API = `https://procuzy-backend.vercel.app/`

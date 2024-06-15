@@ -14,7 +14,8 @@ Medium Article Scraper is a web application that scrapes articles from Medium ba
 - Simple and intuitive user interface
 
 ## Demo
-![image](https://github.com/rohitchourey0809/Procuzy-Assignment/assets/97465195/bdc9575a-8a74-4cc6-aed5-b03287dfbe6b)
+![image](https://github.com/rohitchourey0809/Procuzy-Assignment/assets/97465195/a1fa0b89-4d31-4146-9472-d85f9233fa4a)
+
 
 
 ## Table of Contents
